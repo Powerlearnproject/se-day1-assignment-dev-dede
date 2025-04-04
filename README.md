@@ -63,8 +63,6 @@ System Testing – Tests the entire application as a whole. Importance: Validate
 Acceptance Testing – Confirms if the system meets business needs. Importance: Ensures user satisfaction before deployment.
 
 #Part 2: Introduction to AI and Prompt Engineering
-
-
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering is the practice of crafting effective inputs (prompts) to guide AI models in generating accurate and useful responses. It is crucial because:
 Well-structured prompts improve AI accuracy.
